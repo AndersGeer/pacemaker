@@ -31,6 +31,7 @@ public class User
 				  .addValue(lastName)
 				  .addValue(password)
 				  .addValue(email)
+				  .addValue(id)
 				  .toString();
 	  }
 	  
